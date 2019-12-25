@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#binsCount {
+  margin: 20px auto;
+}
